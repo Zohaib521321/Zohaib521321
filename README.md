@@ -1,11 +1,11 @@
 ![logo](https://firebasestorage.googleapis.com/v0/b/mainecommerce-e9457.appspot.com/o/CnicPDF%2FCoding%20With%20Zohaib.png?alt=media&token=14d91b09-ad36-4dc8-8213-71a260f6bd38)
 <h1 align="center">Hi 👋, I'm Muhammad Zohaib</h1>
-<h3 align="center">A passionate software engineer from Pakistan</h3>
-<img align="right" alt="coding" width="400px" src"https://firebasestorage.googleapis.com/v0/b/mainecommerce-e9457.appspot.com/o/CnicPDF%2FgifDown.gif?alt=media&token=f1191549-39b3-4a95-afbb-5e650a66515f"/>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<img align="right" alt="coding" width="400px" src="https://firebasestorage.googleapis.com/v0/b/mainecommerce-e9457.appspot.com/o/CnicPDF%2FgifDown.gif?alt=media&token=f1191549-39b3-4a95-afbb-5e650a66515f">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaib521321&label=Profile%20views&color=0e75b6&style=flat" alt="zohaib521321" /> </p>
 
-- 💬 Ask me about **c++,dsa,flutter,dart,firebase,and python**
+- 💬 Ask me about **c++,DSA, flutter, dart, firebase, and python**
 
 - 📫 How to reach me **khanzohaib3231@gmail.com**
 
