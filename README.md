@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@zohaib521321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@zohaib521321" height="30" width="40" /></a>
-<a href="https://instagram.com/@codingwithzohaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@codingwithzohaib" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@codingwithzohaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codingwithzohaib" height="30" width="40" /></a>
+<a href="https://www.instagram.com/codingwithzohaib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@codingwithzohaib" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCMoJ0yBznqHt6fS550TaLxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codingwithzohaib" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
