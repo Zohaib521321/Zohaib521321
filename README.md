@@ -1,4 +1,3 @@
-![logo](https://firebasestorage.googleapis.com/v0/b/mainecommerce-e9457.appspot.com/o/CnicPDF%2FCoding%20With%20Zohaib.png?alt=media&token=14d91b09-ad36-4dc8-8213-71a260f6bd38)
 <h1 align="center">Hi 👋, I'm Muhammad Zohaib</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
@@ -19,6 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zohaib521321&show_icons=true&locale=en&layout=compact" alt="zohaib521321" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohaib521321&show_icons=true&locale=en" alt="zohaib521321" /></p>
 
 
