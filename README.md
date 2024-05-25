@@ -1,5 +1,42 @@
 # 💫 About Me:
-Hello! 👋<br><br>I am currently working in an onsite job 🏢 and looking to collaborate on project-based opportunities, full-time positions, or any kind of exciting roles that match my skills. 🚀<br><br>My Skills 💻<br>Flutter & Dart<br>Firebase<br>C++<br>Data Structures & Algorithms<br>Python (currently learning as backend) 🐍<br>MongoDB<br>Ask Me About ❓<br>Feel free to ask me anything about Flutter, Dart, Firebase, C++, DSA, Python, and MongoDB. I'm always happy to share my knowledge and help out! 😊<br><br>Fun Fact 🎉<br>I once built a mobile app that tracks daily water intake and it ended up being used by over 10,000 people to stay hydrated! 🚰💧<br><br>Looking forward to connecting and collaborating with you! 🤝
+# 👋 Hello!
+
+Welcome to my GitHub profile! I am currently working in an onsite job 🏢 and actively looking to collaborate on project-based opportunities, full-time positions, or any exciting roles that match my skills. 🚀
+
+---
+
+## 💻 My Skills
+- **Flutter & Dart** 📱
+- **Firebase** 🔥
+- **C++** 💻
+- **Data Structures & Algorithms** 📊
+- **Python** (currently learning as backend) 🐍
+- **MongoDB** 🍃
+
+---
+
+## ❓ Ask Me About
+Feel free to ask me anything about:
+- Flutter
+- Dart
+- Firebase
+- C++
+- Data Structures & Algorithms
+- Python
+- MongoDB
+
+I'm always happy to share my knowledge and help out! 😊
+
+---
+
+## 🎉 Fun Fact
+I once built a mobile app that tracks daily water intake and it ended up being used by over 10,000 people to stay hydrated! 🚰💧
+
+---
+
+## 🤝 Let's Connect
+Looking forward to connecting and collaborating with you!
+
 
 
 ## 🌐 Socials:
