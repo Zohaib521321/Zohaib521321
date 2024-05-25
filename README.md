@@ -61,8 +61,18 @@ Looking forward to connecting and collaborating with you!
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zohaib521321&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib521321&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Zohaib521321&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+### 😂 Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
