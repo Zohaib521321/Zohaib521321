@@ -24,7 +24,8 @@ Welcome to my GitHub profile! I am currently working in an onsite job 🏢 and a
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-%23127AB6.svg?style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+
 I'm always happy to share my knowledge and help out! 😊
 
 ---
