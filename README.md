@@ -74,10 +74,7 @@ Looking forward to connecting and collaborating with you!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### 😂 Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Zohaib521321&icon=4&color=3)](https://visitcount.itsvg.in)
 
