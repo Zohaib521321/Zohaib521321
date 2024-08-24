@@ -28,12 +28,7 @@ Welcome to my GitHub profile! I am currently working in an onsite job 🏢 and a
 
 I'm always happy to share my knowledge and help out! 😊
 
----
 
-## 🎉 Fun Fact
-I once built a mobile app that tracks daily water intake and it ended up being used by over 10,000 people to stay hydrated! 🚰💧
-
----
 
 ## 🤝 Let's Connect
 Looking forward to connecting and collaborating with you!
