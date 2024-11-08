@@ -60,7 +60,7 @@ Looking forward to connecting and collaborating with you!
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zohaib521321&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://streak-stats.demolab.com/?user=Zohaib521321&theme=vision-friendly-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib521321&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zohaib521321&theme=radical&no-frame=false&no-bg=false&margin-w=4)
