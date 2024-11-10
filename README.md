@@ -61,7 +61,6 @@ Looking forward to connecting and collaborating with you!
 # 📊 GitHub Stats:
 
 
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaib521321&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=zohaib521321&theme=radical)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib521321&layout=compact&theme=radical)
 
