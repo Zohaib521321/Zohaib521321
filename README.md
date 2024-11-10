@@ -60,10 +60,8 @@ Looking forward to connecting and collaborating with you!
 ---
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zohaib521321&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=false&border_radius=5&border=ffffff&fire=DD2727&ring=DD2727&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=DD2727&sideLabels=DD2727&dates=ffffff" alt="GitHub Streak" height="195px" />&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib521321&theme=dark&layout=compact&hide_border=false&border_radius=5&border_color=ffffff&langs_count=6&card_width=330" alt="Top Languages" height="195px" />
-</p>
+![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaib521321&show_icons=true&theme=radical)
+
 
 
 ## 🏆 GitHub Trophies
