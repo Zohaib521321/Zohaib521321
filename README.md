@@ -61,7 +61,7 @@ Looking forward to connecting and collaborating with you!
 # 📊 GitHub Stats:
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zohaib521321&theme=dark&background=000000)
+![GitHub Streak](https://streak-stats.demolab.com/?user=zohaib521321&theme=dark&background=000000)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib521321&layout=compact&theme=radical)
 
 
