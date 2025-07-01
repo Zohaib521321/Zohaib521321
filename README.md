@@ -72,6 +72,8 @@ Looking forward to connecting and collaborating with you!
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Daily Commit](https://github.com/Zohaib521321/make_workflow/actions/workflows/commit.yml/badge.svg)
+
 
 
 
